@@ -10,6 +10,13 @@ I originally made this for controller but because there's no lock-on, it wasn't 
 
 **Please read the instructions carefully.**
 
+> **⚠️ Livetek 2.0 release**<br>
+> There was an attempt at a new release for melonPrimeDS,<br>
+> but it was moved to a seperate branch as it wasn't as stable.<br>
+> See release: https://github.com/makinori/melonPrimeDS/releases/tag/livetek-release<br>
+> and branch: https://github.com/makinori/melonPrimeDS/tree/livetek<br><br>
+> This repo will eventually get a big update with those fixes properly merged in.<br>_...that is when I feel motivated enough to do so_
+
 [melonPrimeDS.webm](https://github.com/makinori/melonPrimeDS/assets/8362329/69ab26bb-7205-451a-a11c-70a2ca0b549d)
 
 ## Download
