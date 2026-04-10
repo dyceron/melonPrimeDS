@@ -1326,7 +1326,7 @@ bool LoadROM(EmuThread* emuthread, QStringList filepath, bool reset)
         // If we couldn't parse the ROM...
         return false;
 
-    if (cart->Checksum() != 0x91B46577)
+    if (cart->Checksum() != 0x415E0C35)
     {
         QMessageBox::warning(
             nullptr,
