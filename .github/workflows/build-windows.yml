@@ -32,7 +32,7 @@ jobs:
       working-directory: ${{runner.workspace}}/build
       run: cmake --build .
 
-    - uses: actions/upload-artifact@v1
+    - uses: actions/upload-artifact@v4
       with:
         name: melonPrimeDS-windows-x86_64
         path: ${{runner.workspace}}\build\melonPrimeDS.exe
